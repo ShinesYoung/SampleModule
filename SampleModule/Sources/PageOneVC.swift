@@ -8,9 +8,9 @@
 
 import UIKit
 
-class PageOneVC: UIViewController {
+public class PageOneVC: UIViewController {
 
-    override func viewDidLoad() {
+    override public func viewDidLoad() {
         super.viewDidLoad()
         self.title = "This is PageOne"
     }
