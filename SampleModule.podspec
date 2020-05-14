@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SampleModule"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "A Sample static Module for iOS App."
 
   # This description is used to generate tags and improve search results.
@@ -66,6 +66,7 @@ Pod::Spec.new do |spec|
 
   # spec.platform     = :ios
   spec.platform     = :ios, "8.0"
+  spec.swift_version = "4.0"
 
   #  When using multiple platforms
   # spec.ios.deployment_target = "5.0"
