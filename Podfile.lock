@@ -1,16 +1,16 @@
 PODS:
-  - GatSnapKit (4.0.1)
+  - BinaryModule (0.0.1)
 
 DEPENDENCIES:
-  - GatSnapKit (= 4.0.1)
+  - BinaryModule (= 0.0.1)
 
 SPEC REPOS:
-  http://gitlab.wuxingdev.cn/ios/GatSpecs.git:
-    - GatSnapKit
+  https://github.com/ShinesYoung/ShinesSpecs.git:
+    - BinaryModule
 
 SPEC CHECKSUMS:
-  GatSnapKit: 2466f39d00d8e7c23c3d6518a03789c4d84f0d6d
+  BinaryModule: 4f60221d85c4b45ba97c5f345b4631d9a60849f4
 
-PODFILE CHECKSUM: bab096c9749e98862e211c18a2e37b27660edfea
+PODFILE CHECKSUM: 4e8730d827e1fdecec08e7e35c4011855cf6c5c5
 
 COCOAPODS: 1.6.0

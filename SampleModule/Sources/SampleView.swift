@@ -8,8 +8,6 @@
 
 import UIKit
 
-import SnapKit
-
 class SampleView: UIView {
 
     let subview = UIView()
@@ -28,12 +26,6 @@ class SampleView: UIView {
         backgroundColor = .orange
         subview.backgroundColor = .green
         addSubview(subview)
-        subview.snp.makeConstraints { (make) in
-            make.top.equalToSuperview().offset(10)
-            make.left.equalToSuperview().offset(10)
-            make.right.equalToSuperview().offset(-10)
-            make.bottom.equalToSuperview().offset(-10)
-        }
     }
 
 }
