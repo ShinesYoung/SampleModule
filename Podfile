@@ -12,6 +12,6 @@ platform :ios, "9.0"
 
 target 'SampleModule' do
   # Pods for SampleModule
-  pod "BinaryModule", "0.0.1", :source => "https://github.com/ShinesYoung/ShinesSpecs.git"
+  pod "BinaryModule", "0.0.3"
 
 end
