@@ -1,16 +1,16 @@
 PODS:
-  - BinaryModule (0.0.1)
+  - BinaryModule (0.0.3)
 
 DEPENDENCIES:
-  - BinaryModule (= 0.0.1)
+  - BinaryModule (= 0.0.3)
 
 SPEC REPOS:
   https://github.com/ShinesYoung/ShinesSpecs.git:
     - BinaryModule
 
 SPEC CHECKSUMS:
-  BinaryModule: 4f60221d85c4b45ba97c5f345b4631d9a60849f4
+  BinaryModule: 05d236cc13b5d4f88b829fa7b614d33b23ef4b83
 
-PODFILE CHECKSUM: 4e8730d827e1fdecec08e7e35c4011855cf6c5c5
+PODFILE CHECKSUM: d4843177757053e502352894792f74e747ce6400
 
 COCOAPODS: 1.6.0
